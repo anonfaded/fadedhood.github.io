@@ -18,12 +18,12 @@ timezone: Asia
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fadedhood # the main title
+title: FADEDHOOD # the main title
 
-tagline: Research based tech suff | CyberSec blog # it will display as the sub-title
+tagline: INFOSEC INSIGHTS | TECH | CYBERSPACE NEWS # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Research based tech suff | CyberSec blog
+  Research based tech suff | CyberSec blog | INFOSEC INSIGHTS | TECH | CYBERSPACE NEWS
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://anonfaded.github.io"
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-XF0956P82V # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -82,14 +82,14 @@ avatar: /assets/avatar.jpg
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: utterances # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo: anonfaded/anonfaded.github.io # <gh-username>/<repo>
+    issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
@@ -154,7 +154,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/favicons
+      path: assets/img/favicons
     values:
       swcache: true
   - scope:

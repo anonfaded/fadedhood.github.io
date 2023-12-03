@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Research based tech suff | CyberSec blog | INFOSEC INSIGHTS | TECH | CYBERSPACE NEWS
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://anonfaded.github.io"
+url: "https://fadedhood.github.io"
 
 github:
   username: anonfaded # change to your github username
@@ -88,7 +88,7 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: anonfaded/anonfaded.github.io # <gh-username>/<repo>
+    repo: fadedhood/fadedhood.github.io # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:

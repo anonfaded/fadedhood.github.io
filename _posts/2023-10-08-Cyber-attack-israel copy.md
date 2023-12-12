@@ -6,6 +6,7 @@ tags: [hacktivist,cybersecurity,breach,hackers,cyberattack]
 image:
   path: /assets/img/post5-news/243623462346.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+comments: true
 ---
 
 Amid the ongoing conflict between Gaza and Palestine, Israeli government websites have faced intense cyberattacks. These attacks have been orchestrated by various hacktivist groups, including **Team Azrael Angel Of Death, Beluga, Xargai, Sharkistan, Hacktivist Indonesia** and more. They have disrupted services and led to security breaches, resulting in the public exposure of official credentials such as usernames and passwords for government websites.
